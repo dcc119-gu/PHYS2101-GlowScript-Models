@@ -1,5 +1,5 @@
 # PHYS2101-GlowScript-Models
-Compilation of projects from computational modeling for PHYS2102: Electromagnetic Phenomena (January-May 2026). Descriptions of each lab are as follows: <br />
+Compilation of projects from computational modeling for PHYS2102: Electromagnetic Phenomena (August-December 2025). Descriptions of each lab are as follows: <br />
 1. Introduction to basic while loops.  <br />
 2. Used while loops to create spheres and arrows of set distances and radii.  <br />
 3. Modeled a cart moving horizontally while launching a ball upwards and calculated time for ball to land back in cart.  <br />
